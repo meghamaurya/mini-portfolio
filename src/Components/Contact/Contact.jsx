@@ -1,0 +1,19 @@
+import React from 'react'
+import {BsGithub} from 'react-icons/bs';
+import {GrLinkedin} from 'react-icons/gr';
+import {FaTwitter} from 'react-icons/fa';
+const Contact = () => {
+  return (
+    <section className='my-10  flex flex-col text-center items-center text-neutral-800 bg-neutral-100 '>
+       <span className='text-4xl  my-8'>Get In Touch</span>
+       <p className='px-24'>Currently I'm looking for a Frontend Developer role opportunities! If you know of any position available or if you just want to say hi, please feel free to email me at, <a href='' className='text-blue-600'>meghamini@gmail.com</a></p>
+       <div className='flex text-2xl my-4 mb-4 '>
+            <a href='https://github.com/meghamaurya' target='_blank' rel="noopener noreferrer"><BsGithub className='m-2'/></a>
+            <a href='https://www.linkedin.com/in/megha-maurya-21369324b/' target='_blank' rel="noopener noreferrer"><GrLinkedin className='m-2'/></a>
+            <a href='https://twitter.com/MeghaMaurya58' target='_blank' rel="noopener noreferrer"><FaTwitter className='m-2'/></a>
+          </div>
+    </section>
+  )
+}
+
+export default Contact
