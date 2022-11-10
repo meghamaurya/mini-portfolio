@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <section className='my-10  flex flex-col text-center items-center text-neutral-800 bg-neutral-100 ' id='contact'>
        <span className='text-4xl  my-8'>Get In Touch</span>
-       <p className='px-24'>Currently I'm looking for a Frontend Developer role opportunities! If you know of any position available or if you just want to say hi, please feel free to email me at, <a href='' className='text-blue-600'>meghamini@gmail.com</a></p>
+       <p className='px-24'>Currently I'm looking for a Frontend Developer role opportunities! If you know of any position available or if you just want to say hi, please feel free to email me at, <a href='' className='text-blue-600'>meghamini40@gmail.com</a></p>
        <div className='flex text-2xl my-4 mb-4 '>
             <a href='https://github.com/meghamaurya' target='_blank' rel="noopener noreferrer"><BsGithub className='m-2 hover:text-blue-700'/></a>
             <a href='https://www.linkedin.com/in/megha-maurya-21369324b/' target='_blank' rel="noopener noreferrer"><GrLinkedin className='m-2 hover:text-blue-700'/></a>
