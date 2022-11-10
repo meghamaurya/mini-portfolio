@@ -3,7 +3,7 @@
         "id": 1,
         "imageUrl": "../cardsImages/dreamlearn.png",
         "title": "DreamLearn",
-        "description": "A live online musical instrument learning web app build with Reactjs and TailwindCSS",
+        "description": "A live online musical instrument learning web app build with React App and TailwindCSS",
         "demo": "https://dreamlearn.vercel.app/",
         "sourceCode": "https://github.com/meghamaurya/DreamLearn"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "imageUrl": "../cardsImages/zomato.png",
         "title": "Zomato-clone",
-        "description": "Zomato clone is responsive website build with Reactjs and CSS",
+        "description": "Zomato clone is responsive website build with React App and CSS",
         "demo": "https://zomato-site-clone.netlify.app/",
         "sourceCode": "https://github.com/meghamaurya/zomato-clone"
     },
