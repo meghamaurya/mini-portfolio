@@ -4,7 +4,7 @@ import {HashLink as Link } from 'react-router-hash-link';
 const Navbar = () => {
   return (
     <div>
-       <ul className='fixed flex justify-start list-none space-x-5 text-md  text-neutral-800 bg-transparent bg-gray-100 bg-opacity-50 pt-5 pl-10 w-full'>
+       <ul className='fixed flex justify-start list-none space-x-5 text-md  text-neutral-800 bg-transparent bg-gray-100 bg-opacity-50 pt-4 pb-1 pl-10 w-full'>
         <Link to="#home" smooth className="hover:text-neutral-600  hover:font-semibold">Home</Link>
         <Link to="#projects" smooth className="hover:text-neutral-600 hover:font-semibold">Projects</Link>
         <Link to="#skills" smooth className="hover:text-neutral-600 hover:font-semibold">Skills</Link>
