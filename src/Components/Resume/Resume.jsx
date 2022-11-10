@@ -1,9 +1,11 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom';
+import img from './image/cv1.png';
 const Resume = () => {
   return (
-    <div>
-      <img/>
+    <div className='m-auto py-12 text-center'>
+      <Link to="/" className=' animate-pulse text-blue-600 font-semibold'>Back</Link>
+      <img src={img} alt='resume' width="600px" className='px-5 mx-auto border-4 border-blue-500'/>
     </div>
   )
 }
