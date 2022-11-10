@@ -4,8 +4,8 @@ const Skills = () => {
   return (
     <div className="text-center flex flex-col mx-10 my-10" id="skills">
       <h2 className="text-4xl mt-4 my-8">Skills</h2>
-      <div className="grid grid-cols-2 mx-5 text-start">
-        <div className="mx-16">
+      <div className="grid sm:grid-cols-1 md:grid-cols-2 sm:mx-0 md:mx-5 text-start">
+        <div className="sm:mx-0 md:mx-16">
           <span>React</span>
           <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-300 my-2">
             <div class="bg-blue-600 h-2.5 rounded-full w-64"></div>
@@ -19,7 +19,7 @@ const Skills = () => {
             <div class="bg-blue-600 h-2.5 rounded-full w-40"></div>
           </div>
         </div>
-        <div className="mx-16">
+        <div className="sm:mx-0 md:mx-16">
           <span>Javascript</span>
           <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-300 my-2">
             <div class="bg-blue-600 h-2.5 rounded-full w-56"></div>
