@@ -14,9 +14,9 @@ const Home = () => {
       bg-gradient-to-bl
       from-green-400 to-red-400 via-purple-300 animate-gradient-x text-white"
       >
-        <h1 className=" text-6xl h-20">Megha Maurya</h1>
+        <h1 className=" text-6xl sm:h-18 md:h-20 ">Megha Maurya</h1>
         <span className="text-2xl">A Frontend Developer</span>
-        <div className="flex text-5xl -mb-32 my-4">
+        <div className="flex text-5xl -mb-32 my-2">
           <a
             href="https://github.com/meghamaurya"
             target="_blank"
