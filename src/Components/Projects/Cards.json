@@ -17,6 +17,14 @@
     },
     {
         "id": 3,
+        "imageUrl": "../cardsImages/todo.png",
+        "title": "Todo app",
+        "description": "App that helps you to maintain you todo list, this is build with React app, Redux and Bootstrap",
+        "demo": "https://my-todos-app1.netlify.app/",
+        "sourceCode": "https://github.com/meghamaurya/ToDo-List"
+    },
+    {
+        "id": 4,
         "imageUrl": "../cardsImages/wargame.png",
         "title": "War Game",
         "description": "A war card game build with HTML5, CSS and Javascript",
@@ -25,6 +33,14 @@
     },
     {
         "id": 5,
+        "imageUrl": "../cardsImages/piccachu.png",
+        "title": "Piccachu Puzzle",
+        "description": "A fun puzzle, build with HTML, CSS and jQuery",
+        "demo": "https://picachhu-img-puzzle.vercel.app/",
+        "sourceCode": "https://github.com/meghamaurya/picachhu-img-puzzle"
+    },
+    {
+        "id": 6,
         "imageUrl": "../cardsImages/agecalculator.png",
         "title": "Age Calculator",
         "description": "App for calculating the age, this is build with HTML, CSS and Javascript",
