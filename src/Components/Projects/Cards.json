@@ -27,7 +27,7 @@
         "id": 4,
         "imageUrl": "../cardsImages/myGPT.png",
         "title": "MyGPT",
-        "description": "An app similar to chatGPT build with HTML5, CSS and Javascript",
+        "description": "An app similar to chatGPT build with React app, CSS and Javascript",
         "demo": "https://my-gpt-rxek.vercel.app/",
         "sourceCode": "https://github.com/meghamaurya/MyGPT"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "imageUrl": "../cardsImages/CN.png",
         "title": "Cartoon Network Clone",
-        "description": "Clone of home page of Cartoon Network build with HTML5, CSS and Javascript",
+        "description": "Clone of home page of Cartoon Network build with React app, CSS and Javascript",
         "demo": "https://cartoon-network-clone.vercel.app/",
         "sourceCode": "https://github.com/meghamaurya/Cartoon-network-clone"
     },
